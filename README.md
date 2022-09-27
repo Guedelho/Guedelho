@@ -11,5 +11,5 @@
 
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=guedelho&theme=onedark&show_icons=true" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedelho&layout=compact&langs_count=16&theme=onedark&hide=jupyter%20notebook,html" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guedelho&layout=compact&langs_count=16&theme=onedark&hide=jupyter%20notebook,html,css" />
 </div>
