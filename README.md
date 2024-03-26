@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Software Engineer.
-- 🌱 I’m currently learning Go.
+- 🔭 I’m currently working as a Site Reliability Engineer.
+- 🌱 I’m currently learning Distributed Systems.
 - 👯 I’m looking to collaborate on any project that will help to create Skynet.
 - 🤔 I’m looking for help to thrive as a Machine Learning Engineer.
 - 💬 Ask me about anything (really).
