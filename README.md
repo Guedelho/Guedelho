@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working as a Site Reliability Engineer.
 - 🌱 I’m currently learning Distributed Systems.
